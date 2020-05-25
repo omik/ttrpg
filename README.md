@@ -1,6 +1,6 @@
 # Guía de "omiK" para todo (actualizada a 25/05/20)
 
-Una recopilación de enlaces (mayormente actualizada a todo lo que he liberado hasta el momento para TTRPGs
+Una recopilación de enlaces más o menos actualizada a todo lo que he liberado hasta el momento para TTRPGs
 
 ## Aventuras
 
