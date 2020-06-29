@@ -24,4 +24,6 @@ Una recopilación de enlaces más o menos actualizada a todo lo que he liberado 
 
 - **PRÓXIMAMENTE**
 
-Si te gusta lo que hago considera apoyarme en http://patreon.com/therealomik. Gracias de antebrazo!
+Si te gusta lo que hago considera apoyarme en [patreon.com/therealomik](https://patreon.com/therealomik)
+
+Gracias de antebrazo!
