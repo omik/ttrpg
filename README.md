@@ -1,7 +1,7 @@
 # Guía de "omiK" para todo 
-## (actualizada a 25/05/20)
+## (actualizada a 29/06/20)
 
-Una recopilación de enlaces más o menos actualizada a todo lo que he liberado hasta el momento para TTRPGs
+Una recopilación de enlaces más o menos actualizada a todo lo que he liberado hasta el momento para TTRPGs. 
 
 ## Aventuras
 
@@ -17,9 +17,11 @@ Una recopilación de enlaces más o menos actualizada a todo lo que he liberado 
 
 ## Sistemas
 
-- [Perverso d6 edición Espada y Brujería](https://drive.google.com/open?id=1-ukkkzKtWXXSgg5DGB6YW-Fd_M6nCau5)
+- [Perverso d6 edición Espada y Brujería](https://drive.google.com/drive/folders/1-ukkkzKtWXXSgg5DGB6YW-Fd_M6nCau5)
 - [Perverso d6 edición Carne y Cromo](https://drive.google.com/drive/folders/168CctRB1W1nrhvfr95dP-hKdSQyDUfZ4)
 
 ## Ayudas
 
 - **PRÓXIMAMENTE**
+
+Si te gusta lo que hago considera apoyarme en http://patreon.com/therealomik. Gracias de antebrazo!
