@@ -14,6 +14,8 @@ Una recopilación de enlaces más o menos actualizada a todo lo que he liberado 
 	- [Los Monstruos de Lindow](https://perversod20.cc/2020/05/pd20-007-los-monstruos-de-lindow/)
 - Vieja Escuela Cyberpunk:
 	- [Una Noche Tranquila](https://perversod20.cc/2020/03/pd20-005-una-noche-tranquila/)
+- Vieja Ciudad:
+	- [Cuerdas de acero](https://perversod20.cc/2020/07/pd20-008-cuerdas-de-acero/)
 
 ## Sistemas
 
