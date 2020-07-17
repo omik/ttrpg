@@ -1,7 +1,7 @@
 # Guía de "omiK" para todo 
 ## (actualizada a 29/06/20)
 
-Una recopilación de enlaces más o menos actualizada a todo lo que he liberado hasta el momento para TTRPGs. 
+Una recopilación de enlaces más o menos actualizada a todo lo que he liberado hasta el momento para TTRPGs. Todo bastante gratis bajo licencias Creative Commons.
 
 ## Aventuras
 
@@ -17,7 +17,7 @@ Una recopilación de enlaces más o menos actualizada a todo lo que he liberado 
 - Vieja Ciudad:
 	- [Cuerdas de acero](https://perversod20.cc/2020/07/pd20-008-cuerdas-de-acero/)
 
-## Sistemas
+## Juegos de Rol
 
 - [Perverso d6 edición Espada y Brujería](https://drive.google.com/drive/folders/1-ukkkzKtWXXSgg5DGB6YW-Fd_M6nCau5)
 - [Perverso d6 edición Carne y Cromo](https://drive.google.com/drive/folders/168CctRB1W1nrhvfr95dP-hKdSQyDUfZ4)
