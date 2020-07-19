@@ -1,7 +1,7 @@
 # Guía de "omiK" para todo 
-## (actualizada a 29/06/20)
+## (actualizada a 19/07/20)
 
-Una recopilación de enlaces más o menos actualizada a todo lo que he liberado hasta el momento para TTRPGs. Todo bastante gratis bajo licencias Creative Commons.
+Una recopilación de enlaces más o menos actualizada a todo lo que he liberado hasta el momento para TTRPGs. Como siempre, el contenido está bajo licencias Creative Commons.
 
 ## Aventuras
 
