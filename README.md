@@ -19,8 +19,8 @@ Una recopilación de enlaces más o menos actualizada a todo lo que he liberado 
 
 ## Juegos de Rol
 
-- [Perverso d6 edición Espada y Brujería](https://drive.google.com/drive/folders/1-ukkkzKtWXXSgg5DGB6YW-Fd_M6nCau5)
-- [Perverso d6 edición Carne y Cromo](https://drive.google.com/drive/folders/168CctRB1W1nrhvfr95dP-hKdSQyDUfZ4)
+- [Perverso d6 edición Espada y Brujería](https://www.patreon.com/posts/perverso-d6-v0-38223215)
+- [Perverso d6 edición Carne y Cromo](https://www.patreon.com/posts/perversod6-carne-38604302)
 
 ## Ayudas
 
