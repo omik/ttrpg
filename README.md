@@ -24,7 +24,8 @@ Una recopilación de enlaces más o menos actualizada a todo lo que he liberado 
 
 ## Ayudas
 
-- **PRÓXIMAMENTE**
+- Vieja Escuela Cyberpunk
+	- [Pantalla del Arquitecto](https://www.patreon.com/posts/freerpgday-del-39487121)
 
 Si te gusta lo que hago considera apoyarme en [patreon.com/therealomik](https://patreon.com/therealomik)
 
