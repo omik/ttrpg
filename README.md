@@ -21,6 +21,7 @@ Una recopilación de enlaces más o menos actualizada a todo lo que he liberado 
 
 - [Perverso d6 edición Espada y Brujería](https://www.patreon.com/posts/perverso-d6-v0-38223215)
 - [Perverso d6 edición Carne y Cromo](https://www.patreon.com/posts/perversod6-carne-38604302)
+- [Nevermore. Un juego de rol basado en la obra de Edgar Allan Poe (edición e ilustración)](https://www.patreon.com/posts/perversod6-carne-38604302)
 
 ## Ayudas
 
