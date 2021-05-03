@@ -1,5 +1,5 @@
 # Guía de "omiK" para todo 
-## (actualizada a 19/07/20)
+## (actualizada a 03/05/21)
 
 Una recopilación de enlaces más o menos actualizada a todo lo que he liberado hasta el momento para TTRPGs. Como siempre, el contenido está bajo licencias Creative Commons.
 
@@ -16,6 +16,9 @@ Una recopilación de enlaces más o menos actualizada a todo lo que he liberado 
 	- [Una Noche Tranquila](https://perversod20.cc/2020/03/pd20-005-una-noche-tranquila/)
 - Vieja Ciudad:
 	- [Cuerdas de acero](https://perversod20.cc/2020/07/pd20-008-cuerdas-de-acero/)
+	- [Fantasmas en la Malla](https://perversod20.cc/2021/03/pd20-009-fantasmas-en-la-malla/)
+- Nevermore:
+	- [La inesperada muerte de la señora Graves-Myers](https://perversod20.cc/2021/03/nvrmr-001-la-inesperada-muerte-de-la-senora-graves-myers/)
 
 ## Juegos de Rol
 
