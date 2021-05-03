@@ -18,7 +18,7 @@ Una recopilación de enlaces más o menos actualizada a todo lo que he liberado 
 	- [Cuerdas de acero](https://perversod20.cc/2020/07/pd20-008-cuerdas-de-acero/)
 	- [Fantasmas en la Malla](https://perversod20.cc/2021/03/pd20-009-fantasmas-en-la-malla/)
 - Nevermore:
-	- [La inesperada muerte de la señora Graves-Myers](https://perversod20.cc/2021/03/nvrmr-001-la-inesperada-muerte-de-la-senora-graves-myers/)
+	- [La inesperada muerte de la señora Graves-Myers (edición e ilustración)](https://perversod20.cc/2021/03/nvrmr-001-la-inesperada-muerte-de-la-senora-graves-myers/)
 
 ## Juegos de Rol
 
